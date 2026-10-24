@@ -1,0 +1,75 @@
+# Roblox Blocklist for Pi-hole
+# ===========================
+# This list blocks the main domains used by Roblox games and services.
+# Add this list to your Pi-hole Adlists section to block Roblox on all devices.
+#
+# Maintained by: [NerdysMods]
+# Last updated: 10-23-2026
+0.0.0.0 roblox.com
+0.0.0.0 www.roblox.com
+0.0.0.0 rbxcdn.com
+0.0.0.0 www.rbxcdn.com
+0.0.0.0 api.roblox.com
+0.0.0.0 setup.roblox.com
+0.0.0.0 friends.roblox.com
+0.0.0.0 presence.roblox.com
+0.0.0.0 economy.roblox.com
+0.0.0.0 avatar.roblox.com
+0.0.0.0 auth.roblox.com
+0.0.0.0 chat.roblox.com
+0.0.0.0 groups.roblox.com
+0.0.0.0 accountsettings.roblox.com
+0.0.0.0 notifications.roblox.com
+0.0.0.0 thumbnails.roblox.com
+0.0.0.0 games.roblox.com
+0.0.0.0 ephemeralcounters.roblox.com
+0.0.0.0 realtime.roblox.com
+0.0.0.0 abtesting.roblox.com
+0.0.0.0 metrics.roblox.com
+0.0.0.0 status.roblox.com
+0.0.0.0 clientsettings.roblox.com
+0.0.0.0 locale.roblox.com
+0.0.0.0 users.roblox.com
+0.0.0.0 gamepersistence.roblox.com
+0.0.0.0 badges.roblox.com
+0.0.0.0 develop.roblox.com
+0.0.0.0 inventory.roblox.com
+0.0.0.0 share.roblox.com
+0.0.0.0 voice.roblox.com
+0.0.0.0 contacts.roblox.com
+0.0.0.0 rbxapi.com
+0.0.0.0 www.rbxapi.com
+0.0.0.0 rbxtrk.com
+0.0.0.0 www.rbxtrk.com
+0.0.0.0 roblox.gg
+0.0.0.0 roblox.plus
+0.0.0.0 ncs.roblox.com
+0.0.0.0 apis.rbxcdn.com
+0.0.0.0 thumbnails.roblox.com
+0.0.0.0 sentry-relay.rbxinfra.com
+0.0.0.0 sc5.rbxcdn.com
+0.0.0.0 fts.rbxcdn.com
+0.0.0.0 locale.roblox.com
+0.0.0.0 assetdelivery.roblox.com
+0.0.0.0 corp.roblox.com
+0.0.0.0 translations-cdn.roblox.com
+0.0.0.0 apis.roblox.com
+0.0.0.0 webblox.roblox.com
+0.0.0.0 ecsv2.roblox.com
+0.0.0.0 authorize.roblox.com
+0.0.0.0 css.rbxcdn.com
+0.0.0.0 js.rbxcdn.com
+0.0.0.0 images.rbxcdn.com
+0.0.0.0 static.rbxcdn.com
+0.0.0.0 assetdelivery.roblox.com
+0.0.0.0 games.roblox.com
+0.0.0.0 cms-media.roblox.com
+0.0.0.0 about.roblox.com
+0.0.0.0 setup.rbxcdn.com
+0.0.0.0 tracing.roblox.com
+0.0.0.0 www-assets.roblox.com
+0.0.0.0 tr.rbxcdn.com
+0.0.0.0 cdn.foundation.roblox.com
+0.0.0.0 lms.roblox.com
+
+# End of list
