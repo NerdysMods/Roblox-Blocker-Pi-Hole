@@ -2,6 +2,8 @@ Kids on Roblox too much or worried about online adults? This list will block it 
 
 Credits https://github.com/RichmondDog/roblox-pihole-adlist/tree/main I just updated the list as he doesn't seem to be active anymore.
 Roblox Blocklist for Pi-hole
+
+
 This is a ready-made blocklist for Pi-hole designed to block access to Roblox on all devices in your home network.
 It works by blocking the main domains used by Roblox games, apps, and website.
 
